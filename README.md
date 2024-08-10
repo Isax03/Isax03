@@ -42,6 +42,10 @@
 ### Other
 ![Raspberry](https://skillicons.dev/icons?i=raspberrypi)
 
+## Stats
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Isax03&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Isax03/github-readme-stats#gh-dark-mode-only)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isax03&layout=compact&theme=dark)
 
 ## Socials
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/isax_73)
