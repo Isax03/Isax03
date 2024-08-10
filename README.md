@@ -34,11 +34,13 @@
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 ### Tools
+![Docker](https://skillicons.dev/icons?i=docker)
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
 ![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
+![GitHub](https://skillicons.dev/icons?i=github)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
 
 ### Other
 ![Raspberry](https://skillicons.dev/icons?i=raspberrypi)
