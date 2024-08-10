@@ -31,6 +31,7 @@
 ### Databases
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 ### Tools
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
