@@ -21,6 +21,7 @@
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Rust](https://skillicons.dev/icons?i=rust)
 
 ### Web (Frontend)
 ![HTML](https://skillicons.dev/icons?i=html)
