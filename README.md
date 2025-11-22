@@ -29,6 +29,11 @@
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Svelte](https://skillicons.dev/icons?i=svelte)
 
+### Web (Backend)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![SpringBoot](https://skillicons.dev/icons?i=spring)
+
+
 ### Databases
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
@@ -36,9 +41,7 @@
 
 ### Tools
 ![Docker](https://skillicons.dev/icons?i=docker)
-![Android Studio](https://skillicons.dev/icons?i=androidstudio)
-![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
-![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![GitLab](https://skillicons.dev/icons?i=gitlab)
