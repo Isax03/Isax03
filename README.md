@@ -27,6 +27,7 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Svelte](https://skillicons.dev/icons?i=svelte)
+![Angular](https://skillicons.dev/icons?i=angular)
 
 ### Web (Backend)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
