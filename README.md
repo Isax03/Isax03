@@ -49,26 +49,6 @@
 ### Other
 ![Raspberry](https://skillicons.dev/icons?i=raspberrypi)
 
-## Stats
-<div align="center">
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 1rem;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Isax03&show_icons=true&theme=dark" alt="GitHub Stats" />
-    </td>
-    <td align="center" style="padding: 1rem;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isax03&layout=compact&theme=dark" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isax03/Isax03/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isax03/Isax03/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-</div>
-
 ## Socials
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/isax_73)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://www.github.com/Isax03)
